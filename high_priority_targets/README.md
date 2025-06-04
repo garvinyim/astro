@@ -8,9 +8,9 @@ Authors: G. Yim, L. Shao & R. Xu \
 Official link: [https://academic.oup.com/mnras/article/532/4/3893/7712489](https://academic.oup.com/mnras/article/532/4/3893/7712489) \
 Pre-print link: [https://arxiv.org/abs/2406.00283](https://arxiv.org/abs/2406.00283) 
 
-*Please cite the above publication if you are using any code from this repository. You can use the BibTeX format below:*
-
-@ARTICLE{2024MNRAS.532.3893Y,
+*Please cite the above publication if you are using any code from this repository. You can use the BibTeX entry below:*
+```
+@ARTICLE{yimShaoXu2024,
        author = {{Yim}, Garvin and {Shao}, Lijing and {Xu}, Renxin},
         title = "{High-priority targets for transient gravitational waves from glitching pulsars}",
       journal = {\mnras},
@@ -27,3 +27,4 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3893Y},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+```
